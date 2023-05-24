@@ -1,13 +1,11 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
+title: 找到我
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-# 找到我
-| Google me. | ID | 说明 |
+| Google me | ID | 说明 |
 | --- | --- | --- |
 | 个人微信 | solalector | 备注 实名 看置顶朋友圈规矩 |
 | 官方网站 | lonelyreader.com | 进站点学习管理系统就行 |
