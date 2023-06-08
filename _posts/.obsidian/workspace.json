@@ -130,18 +130,18 @@
             }
           },
           {
-            "id": "35716e7310032b1f",
+            "id": "dbc079e9de009e3b",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "fbc28afa5bb17413",
+            "id": "5288f0b9e36a2b15",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -162,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca1cb422c3e17b79",
+  "active": "5288f0b9e36a2b15",
   "lastOpenFiles": [
     "2021-05-14-保国往事第二封：穆罕默德的故事.md",
     "2021-05-16-保国往事第三封：酸奶与玫瑰.md",
