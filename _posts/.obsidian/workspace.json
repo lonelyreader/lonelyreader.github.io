@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9a18c79c1a1679e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
+                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
+                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,23 +150,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md"
+                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md"
               }
             }
           },
           {
-            "id": "60bdd260a8c6d013",
+            "id": "8484d669468bc1e1",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           },
           {
-            "id": "f7385ea04c1cd516",
+            "id": "43ba158eeac673c3",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -175,8 +187,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "242da957df946d95",
+  "active": "43ba158eeac673c3",
   "lastOpenFiles": [
+    "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
+    "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
     "关于纳粹帝国的自学成果.md",
     "Problem-Solution Model.md",
     "2023-07-19-流动性危机.md",
@@ -199,10 +213,8 @@
     "2023-01-16-人会死但思想不会.md",
     "2021-06-05-惊奇感与好奇心的区别.md",
     "2021-09-04-金村长的村子.md",
-    "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
     "两个未经调和的死亡喻 60387a6e8f8e4948a75580fc728b492f.md",
     "2022-08-01-七娃与信陵君.md",
-    "女性主义给我带来的启迪 89d06eff61a243159f4280aaf542161a.md",
     "未命名",
     "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
     "未命名.canvas",
