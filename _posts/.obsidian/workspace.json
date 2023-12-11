@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
+                "file": "2021-04-16-两个未经调和的死亡喻.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
+                "file": "2021-04-16-两个未经调和的死亡喻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
+                "file": "2021-04-16-两个未经调和的死亡喻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,32 +150,43 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-20-流动性危机、观点趋同与花剌子模信使.md"
+                "file": "2021-04-16-两个未经调和的死亡喻.md"
               }
             }
           },
           {
-            "id": "8484d669468bc1e1",
+            "id": "14096ebac76e9ec1",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           },
           {
-            "id": "43ba158eeac673c3",
+            "id": "85fed64104c92f12",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "f78626ed1e9b698e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,37 +195,38 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "43ba158eeac673c3",
+  "active": "9a18c79c1a1679e3",
   "lastOpenFiles": [
-    "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
+    "21-04-24-后怕与后悔.md",
+    "2022-08-03-一把斩断沉迷与热爱的铡刀.md",
     "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
-    "关于纳粹帝国的自学成果.md",
-    "Problem-Solution Model.md",
-    "2023-07-19-流动性危机.md",
-    "2021-05-16-保国往事第三封：酸奶与玫瑰.md",
-    "2021-05-14-保国往事第二封：穆罕默德的故事.md",
-    "2021-04-17-女性与社会权力结构.md",
-    "2021-05-13-保国往事第一封：学生格勒见闻.md",
+    "2021-04-10-一个伤感的故事.md",
     "2021-05-17-保国往事第四封：姑娘与历史.md",
-    "墨国往事 97488c5f87734b2e8814aada3ff4229e.md",
-    "藏不住自认为美好的事物 481e4879b4514b288834d1931e2b8d1e.md",
-    "2022-04-01-为私有财产辩护.md",
-    "2023-01-12-新手村虐菜.md",
-    "2021-05-24-有关机会成本的心路历程.md",
-    "2021-12-01-涌现.md",
+    "2021-04-25-并非理所当然.md",
+    "2021-04-17-女性与社会权力结构.md",
+    "2021-04-29-被岁月磨平了棱角.md",
+    "纪念友人 0e63be6f31634126aaf0cce3e031f2f7.md",
+    "终极三问 d85d4e3231fc404580d672f15748834d.md",
+    "自我批判一则 8c91606eedad42c4a0b39e0f6673c7b5.md",
+    "2021-05-03-教书育人能不能工业化.md",
+    "2023-07-19-流动性危机.md",
+    "世界观 08f9be75cdb5496080ca3b929b79addf.md",
+    "三十三岁前我想做的事情 59fd86842c8245d5931a6a928a0592d1.md",
+    "2021-12-08-理解元宇宙.md",
     "2023-01-10-有则改之无则加勉.md",
-    "2023-01-02-小家与大家.md",
-    "2021-06-30-没什么可后悔的.md",
-    "两年八城 94ab29a6cd2f492ca720832c6421afae.md",
-    "美学境界 c1bd6256804442f88eddf0b03b6dce4f.md",
-    "2023-01-16-人会死但思想不会.md",
-    "2021-06-05-惊奇感与好奇心的区别.md",
-    "2021-09-04-金村长的村子.md",
-    "两个未经调和的死亡喻 60387a6e8f8e4948a75580fc728b492f.md",
-    "2022-08-01-七娃与信陵君.md",
+    "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869/强悍的商业领袖不会预设一个公平社会 640975074e57426ea5ce443b75cef92e.md",
+    "所谓四大名著中的混子 2bda6167ed5d46108d89b52797bc387d.md",
+    "2023-01-04-拿人钱财替人消灾.md",
+    "2021-05-20-每个人都是一艘船.md",
+    "2021-8-27-智识三障.md",
+    "藏不住自认为美好的事物 481e4879b4514b288834d1931e2b8d1e.md",
+    "2021-05-16-保国往事第三封：酸奶与玫瑰.md",
+    "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
+    "关于纳粹帝国的自学成果.md",
     "未命名",
     "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
     "未命名.canvas",
