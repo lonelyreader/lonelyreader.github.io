@@ -15,6 +15,7 @@
               "state": {
                 "file": "2021-05-16-保国往事第三封：酸奶与玫瑰.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -27,6 +28,7 @@
               "state": {
                 "file": "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -37,9 +39,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-8-27-智识三障.md",
+                "file": "为什么我也不是保守派 4014aeacd58241e4a766979b14cd5df2.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "80eb5aa36fe0261c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "25666c7392552b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "上海人不能闭嘴.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "280b83aba803ea2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-21-斜坡之喻.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           },
@@ -57,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "智识三障",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-8-27-智识三障.md",
+                "file": "上海人不能闭嘴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-8-27-智识三障.md",
+                "file": "上海人不能闭嘴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,22 +205,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-8-27-智识三障.md"
+                "file": "上海人不能闭嘴.md"
               }
             }
           },
           {
-            "id": "14096ebac76e9ec1",
+            "id": "cc2ff8d33fbec59a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
           {
-            "id": "85fed64104c92f12",
+            "id": "1465d43d69a6fad8",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -187,7 +230,7 @@
             }
           },
           {
-            "id": "f78626ed1e9b698e",
+            "id": "0257a86496fd167e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -213,37 +256,37 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9a18c79c1a1679e3",
+  "active": "25666c7392552b47",
   "lastOpenFiles": [
-    "2021-08-13-为潘金莲辩护.md",
-    "2021-8-27-智识三障.md",
-    "2021-04-16-两个未经调和的死亡喻.md",
-    "21-04-24-后怕与后悔.md",
-    "2022-08-03-一把斩断沉迷与热爱的铡刀.md",
-    "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
-    "2021-04-10-一个伤感的故事.md",
-    "2021-05-17-保国往事第四封：姑娘与历史.md",
-    "2021-04-25-并非理所当然.md",
-    "2021-04-17-女性与社会权力结构.md",
-    "2021-04-29-被岁月磨平了棱角.md",
-    "纪念友人 0e63be6f31634126aaf0cce3e031f2f7.md",
-    "终极三问 d85d4e3231fc404580d672f15748834d.md",
-    "自我批判一则 8c91606eedad42c4a0b39e0f6673c7b5.md",
-    "2021-05-03-教书育人能不能工业化.md",
-    "2023-07-19-流动性危机.md",
-    "世界观 08f9be75cdb5496080ca3b929b79addf.md",
-    "三十三岁前我想做的事情 59fd86842c8245d5931a6a928a0592d1.md",
     "2021-12-08-理解元宇宙.md",
-    "2023-01-10-有则改之无则加勉.md",
-    "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869/强悍的商业领袖不会预设一个公平社会 640975074e57426ea5ce443b75cef92e.md",
-    "所谓四大名著中的混子 2bda6167ed5d46108d89b52797bc387d.md",
-    "2023-01-04-拿人钱财替人消灾.md",
-    "2021-05-20-每个人都是一艘船.md",
-    "藏不住自认为美好的事物 481e4879b4514b288834d1931e2b8d1e.md",
+    "理解自由 e0383544970d4f5f9c4ca3319e165c96.md",
+    "2021-09-11-做饭这点小事.md",
     "2021-05-16-保国往事第三封：酸奶与玫瑰.md",
+    "什么都没说 bbc1227f6993441fbe62c504c0fabea4.md",
+    "2021-08-13-为潘金莲辩护.md",
+    "2021-04-25-并非理所当然.md",
+    "我们为什么要读西方那一套.md",
+    "2021-05-13-保国往事第一封：学生格勒见闻.md",
+    "2021-05-21-斜坡之喻.md",
+    "2021-05-04-终极三问.md",
+    "2021-05-10-太多人只上过学却没接受过教育.md",
+    "2021-04-30-四月惊奇.md",
+    "2021-04-10-一个伤感的故事.md",
+    "2021-05-06-一千字就能写完的家族史.md",
+    "2021-04-24-后怕与后悔.md",
+    "值得学的东西都教不了 fe2eaf02349747c88a9ce92e7b31bec9.md",
+    "未命名.md",
+    "为什么我也不是保守派 4014aeacd58241e4a766979b14cd5df2.md",
+    "四月惊奇.md",
+    "东方玄幻主义文学两篇 5da4d7f5b665429bb4dbef827a628b72.md",
+    "世界观.md",
+    "三十三岁前我想做的事情.md",
+    "2021-04-17-女性与社会权力结构.md",
+    "所谓四大名著中的混子 2bda6167ed5d46108d89b52797bc387d.md",
+    "2021-12-01-涌现.md",
+    "未命名.canvas",
     "未命名",
     "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
-    "未命名.canvas",
     "obsidian_templates"
   ]
 }
