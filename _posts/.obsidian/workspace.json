@@ -15,9 +15,11 @@
               "state": {
                 "file": "2021-05-14-保国往事第二封：穆罕默德的故事.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2021-05-14-保国往事第二封：穆罕默德的故事"
             }
           },
           {
@@ -28,9 +30,11 @@
               "state": {
                 "file": "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2022-04-07-看待上海本地人歧视上海外地人的三个视角"
             }
           },
           {
@@ -39,11 +43,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-07-23-再论女性问题之「荡妇羞辱」.md",
+                "file": "2021-04-05-洞穴奇案与问题意识.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2021-04-05-洞穴奇案与问题意识"
+            }
+          },
+          {
+            "id": "de5a6d28a3177dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-03-教书育人能不能工业化.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2021-05-03-教书育人能不能工业化"
             }
           },
           {
@@ -54,13 +75,15 @@
               "state": {
                 "file": "2021-08-13-为潘金莲辩护.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2021-08-13-为潘金莲辩护"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,8 +102,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -95,7 +121,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -103,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -126,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-23-再论女性问题之「荡妇羞辱」.md",
+                "file": "2021-05-03-教书育人能不能工业化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +164,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2021-05-03-教书育人能不能工业化 的反向链接列表"
             }
           },
           {
@@ -143,10 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-07-23-再论女性问题之「荡妇羞辱」.md",
+                "file": "2021-05-03-教书育人能不能工业化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2021-05-03-教书育人能不能工业化 的出链列表"
             }
           },
           {
@@ -156,8 +190,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -166,8 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-07-23-再论女性问题之「荡妇羞辱」.md"
-              }
+                "file": "2021-05-03-教书育人能不能工业化.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2021-05-03-教书育人能不能工业化 的大纲"
             }
           },
           {
@@ -179,7 +222,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -187,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -195,7 +242,29 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Connections Chat"
+            }
+          },
+          {
+            "id": "b5a1782b6f0f34e4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections Files"
+            }
+          },
+          {
+            "id": "558a17219ca7a010",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Connections Chat"
             }
           }
         ],
@@ -203,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,34 +285,34 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9a18c79c1a1679e3",
+  "active": "de5a6d28a3177dd9",
   "lastOpenFiles": [
+    "2021-04-29-被岁月磨平了棱角.md",
+    "2021-04-10-一个伤感的故事.md",
+    "2021-04-05-洞穴奇案与问题意识.md",
+    "2021-04-17-女性与社会权力结构.md",
+    "2021-04-27-藏不住自认为美好的事物.md",
+    "2022-08-03-一把斩断沉迷与热爱的铡刀.md",
+    "2023-01-02-小家与大家.md",
+    "2023-01-04-拿人钱财替人消灾.md",
+    "2025-03-19-小布尔乔亚阶层病.md",
+    "2024-01-14-我就是吃不了不学习的苦.md",
+    "2023-01-16-人会死但思想不会.md",
+    "2023-07-19-流动性危机.md",
+    "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
+    "2021-10-12-我之为乃吾之所为也.md",
+    "2021-07-23-再论女性问题之「荡妇羞辱」.md",
     "2021-05-03-教书育人能不能工业化.md",
     "2021-05-04-终极三问.md",
-    "2021-04-05-洞穴奇案与问题意识.md",
-    "2021-04-27-藏不住自认为美好的事物.md",
     "2021-04-25-并非理所当然.md",
     "2021-04-24-后怕与后悔.md",
-    "2021-04-17-女性与社会权力结构.md",
     "2021-04-16-两个未经调和的死亡喻.md",
-    "2021-04-10-一个伤感的故事.md",
     "说服三术.md",
     "2021-05-08-理解自由.md",
     "读硬书方法的公开课回放分享 d14f1b5c5cf749e5b2e8a78689d5f8c5.md",
     "2021-11-21-电竞与人性之恶.md",
-    "2024-01-14-我就是吃不了不学习的苦.md",
     "2023-12-11.md",
     "2021-8-27-智识三障.md",
-    "2021-08-13-为潘金莲辩护.md",
-    "21-04-24-后怕与后悔.md",
-    "2022-08-03-一把斩断沉迷与热爱的铡刀.md",
-    "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
-    "2021-05-17-保国往事第四封：姑娘与历史.md",
-    "2021-04-29-被岁月磨平了棱角.md",
-    "纪念友人 0e63be6f31634126aaf0cce3e031f2f7.md",
-    "终极三问 d85d4e3231fc404580d672f15748834d.md",
-    "自我批判一则 8c91606eedad42c4a0b39e0f6673c7b5.md",
-    "2023-07-19-流动性危机.md",
     "未命名",
     "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
     "obsidian_templates"
