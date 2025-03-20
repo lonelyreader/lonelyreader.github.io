@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9529d7182a2f43a",
+        "id": "ad9aa81f9f39e74e",
         "type": "tabs",
         "children": [
           {
-            "id": "648095530e185877",
+            "id": "79c0233f29ebdcba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-08-10-葡萄藤之喻.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2021-08-10-葡萄藤之喻"
+              "title": "新标签页"
             }
           }
         ]
@@ -54,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "智识三障",
+                "query": "电竞",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,12 +228,32 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "77dfc4493bd2232a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "5f474f868f8d238f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
               "icon": "smart-connections",
               "title": "Smart Connections Files"
             }
           },
           {
-            "id": "77dfc4493bd2232a",
+            "id": "03a79db827cc4952",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -264,10 +280,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "648095530e185877",
+  "active": "79c0233f29ebdcba",
   "lastOpenFiles": [
-    "2025-03-19-小布尔乔亚阶层病.md",
+    "2021-11-21-电竞与人性之恶.md",
+    "2021-07-23-再论女性问题之「荡妇羞辱」.md",
     "2021-08-10-葡萄藤之喻.md",
+    "2025-03-19-小布尔乔亚阶层病.md",
     "女性主义给我带来的启迪 89d06eff61a243159f4280aaf542161a.md",
     "2021-05-26-险胜算惨败.md",
     "2021-05-24-有关机会成本的心路历程.md",
@@ -290,8 +308,6 @@
     "2023-07-19-流动性危机.md",
     "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
     "2021-10-12-我之为乃吾之所为也.md",
-    "2021-07-23-再论女性问题之「荡妇羞辱」.md",
-    "2021-05-04-终极三问.md",
     "未命名",
     "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
     "obsidian_templates"
