@@ -75,8 +75,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,12 +272,32 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "44712b212c19a87c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "3d065242db77a29a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
               "icon": "smart-connections",
               "title": "Smart Connections Files"
             }
           },
           {
-            "id": "44712b212c19a87c",
+            "id": "f3f74ed05e2b4983",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -307,6 +326,8 @@
   },
   "active": "79c0233f29ebdcba",
   "lastOpenFiles": [
+    "2025-03-20-人类文明是从土里挖出来的.md",
+    "2021-07-25-预设不一致可能是误被网暴的原因.md",
     "2021-08-18-计划赶不上变化.md",
     "康德定言令式 2fe6da17f3fb4fd29e98be0a692cb8ee.md",
     "2021-10-27-靠嘴吃饭.md",
@@ -331,8 +352,6 @@
     "2021-05-21-输出带动输入.md",
     "2021-04-11-需求等于感受到的难题.md",
     "2021-05-09-自由等于感受到选择权.md",
-    "2021-12-02-老祖宗的智慧.md",
-    "2021-07-03-诉诸动机.md",
     "未命名.canvas",
     "未命名",
     "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
