@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "2025-10-10-卷润躺韭之外的第五种选择"
             }
+          },
+          {
+            "id": "cb419e586f66cfab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-01-万物刍狗.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-01-万物刍狗"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -413,12 +428,32 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Connections Chat"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-chat-view"
             }
           },
           {
             "id": "a5ae63c466455a5c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "0cc55d91a2345837",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-chat-view"
+            }
+          },
+          {
+            "id": "c1c83ea296cd6271",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -428,7 +463,7 @@
             }
           },
           {
-            "id": "0cc55d91a2345837",
+            "id": "aeb321d8d7357254",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -456,8 +491,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a26b80a377b2ccb8",
+  "active": "cb419e586f66cfab",
   "lastOpenFiles": [
+    "2025-10-10-卷润躺韭之外的第五种选择.md",
+    "2026-01-01-万物刍狗.md",
     "2025-07-03-两个不受科技革命冲击的硬技能.md",
     "2021-04-05-洞穴奇案与问题意识.md",
     "obsidian_templates/20---.md",
@@ -482,8 +519,6 @@
     "2021-07-03-诉诸动机.md",
     "2021-07-02-机械人与工厂人之喻.md",
     "2021-07-01-再谈「输出倒逼输入」.md",
-    "2021-06-30-没什么可后悔的.md",
-    "2025-10-01-祝生日快乐.md",
     "未命名.canvas",
     "未命名",
     "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
