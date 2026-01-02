@@ -493,12 +493,32 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "b9cddf12f35fdd0d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-chat-view"
+            }
+          },
+          {
+            "id": "c4f47e29738662d8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
               "icon": "smart-connections",
               "title": "Smart Connections Files"
             }
           },
           {
-            "id": "b9cddf12f35fdd0d",
+            "id": "6b7b713376c1b238",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -528,10 +548,10 @@
   },
   "active": "f9b467865d314452",
   "lastOpenFiles": [
-    "2025-06-30-写给葛夕与葛商的第一封信.md",
     "2026-01-01-万物刍狗.md",
-    "2025-10-10-卷润躺韭之外的第五种选择.md",
     "2026-01-02-文艺中年.md",
+    "2025-06-30-写给葛夕与葛商的第一封信.md",
+    "2025-10-10-卷润躺韭之外的第五种选择.md",
     "2025-07-03-两个不受科技革命冲击的硬技能.md",
     "2021-04-05-洞穴奇案与问题意识.md",
     "obsidian_templates/20---.md",
